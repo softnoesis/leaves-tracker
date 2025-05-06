@@ -49,14 +49,14 @@ Leave Tracker is a web-based leave management system built with **CodeIgniter 3 
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/leave-tracker.git
+git clone https://github.com/softnoesis/leaves-tracker.git
 ```
 
 ### 2. Set Base URL 
 
 - Edit the file: application/config/config.php
 ```bash
-$config['base_url'] = 'http://localhost/leave-tracker/'; // or your domain URL
+$config['base_url'] = 'http://localhost/leaves-tracker/'; // or your domain URL
 ```
 ### 3. Database Setup
 
@@ -70,7 +70,7 @@ $config['base_url'] = 'http://localhost/leave-tracker/'; // or your domain URL
 'hostname' => 'localhost',
 'username' => 'your_username',
 'password' => 'your_password',
-'database' => 'leaves',
+'database' => 'your_database',
 ```
 
 ### 5. Configure Mail Settings
