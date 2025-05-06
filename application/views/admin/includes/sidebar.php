@@ -70,11 +70,7 @@
             <i class="fa fa-suitcase" aria-hidden="true"></i>
             <span>Holidays</span></a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="<?php echo site_url('admin/attendance'); ?>">
-            <i class="fa fa-hourglass" aria-hidden="true"></i>
-            <span>Attendance</span></a>
-        </li>
+
         <li class="nav-item active">
           <a class="nav-link" href="<?php echo site_url('admin/companyprofile'); ?>">
             <i class="fa fa-building" aria-hidden="true"></i>
