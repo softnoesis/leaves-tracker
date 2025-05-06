@@ -56,7 +56,7 @@ git clone https://github.com/softnoesis/leaves-tracker.git
 
 - Edit the file: application/config/config.php
 ```bash
-$config['base_url'] = 'http://localhost/leaves-tracker/'; // or your domain URL
+$config['base_url'] = 'http://localhost/leaves-tracker-main/'; // or your domain URL
 ```
 ### 3. Database Setup
 
