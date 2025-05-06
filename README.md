@@ -1,6 +1,6 @@
 # Leave Tracker (CodeIgniter 3)
 
-Leave Tracker is a web-based leave management system built with **CodeIgniter 3 (CI3)**. It supports role-based access for Admins, HRs, and Members to manage leave requests, approvals, holidays, policies, and user profiles in an efficient and user-friendly way.
+Leave Tracker is an open-source web-based leave management system built with **CodeIgniter 3 (CI3)**. It supports role-based access for Admins, HRs, and Members to manage leave requests, approvals, holidays, policies, and user profiles in an efficient and user-friendly way.
 
 
 
