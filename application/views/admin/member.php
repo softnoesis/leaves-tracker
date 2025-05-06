@@ -239,6 +239,11 @@
                         <input type="text" name="email" id="email" class="form-control" placeholder="Enter Email" required>
                         <span id="msg" style="color: red;"></span>
                      </div>
+
+                     <div class="form-group">
+                        <label>Password</label>
+                        <input type="text" name="password" id="name" class="form-control" placeholder="Enter Password" required>
+                     </div>
                      
                      <div class="form-group">
                         <label>Choice your Role Name </label>
