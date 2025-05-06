@@ -50,8 +50,8 @@
             		$is_admin = 0;
             	}
               $fourRandomDigit = mt_rand(1000,9999);
-              $password = 'soft@'.$fourRandomDigit;
-
+              $password = $this->input->post('password');
+ 
               $data = array(
                   'company_id' => $query->company_id,
                   'name' => $this->input->post('name'),
