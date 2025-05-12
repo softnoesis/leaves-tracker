@@ -1,3 +1,5 @@
+[![License:Apache 2.0](https://img.shields.io/badge/License-APACHE%202.0-brightgreen.svg)](https://opensource.org/license/apache-2-0) 
+
 ![alt text](https://leaves.softnoesis.in/image/leaves1.png)
 
 # Leave Tracker (CodeIgniter 3)
